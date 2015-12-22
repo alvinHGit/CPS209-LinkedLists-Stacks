@@ -6,4 +6,4 @@ by stacking drawn boxes together and adding the option to "push" and "pop" each 
 #MainViewer.java
 Contains the main method.
 #NOTE
-The program was compiled with javac.
+The program was compiled with javac. The code also might be unorganized since these data structures were still fairly new to me at the time I made it.
