@@ -4,7 +4,7 @@ import java.awt.geom.* ;
  * StorageContainer is a class that represents a Stack for StorageContainers. It holds all the information of the container and the info to draw it.
  *
  * Due April 5th 2015
- * @author Alvin Ho a57ho@scs.ryerson.ca / a1ho@ryerson.ca / 500633279
+ * @author Alvin Ho
  */
 public class StorageContainer
 {
